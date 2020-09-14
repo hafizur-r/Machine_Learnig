@@ -1,2 +1,2 @@
 # Machine_Learnig_course
-The machine learning course related problem contain this project. 
+This project file contains machine learning course related problem.
