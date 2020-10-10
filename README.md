@@ -1,2 +1,2 @@
 # Machine_Learnig_course
-This project file contains machine learning course related problem.
+This folder contains machine learning related problem projects.
